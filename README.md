@@ -17,3 +17,8 @@
 * Static Methods are methods that do not take the default self parameter and ignore the binding of the object
 * decorators (@): functions that take another function and extend their functionality
 * init method: the first method being called at the time of object creation
+
+## Abstraction and Encapsulation
+* Encapsulation is done to achieve abstraction
+* Encapsulation is the process of hiding implementation details from the users
+* For example, listName.append() -> list is a **class**, append is the **method** encapsulated by the class
